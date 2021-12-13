@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Concert+One&family=Dosis:wght@300&family=Genos:wght@300&family=Lato&family=Montserrat:wght@300&family=Pacifico&family=Permanent+Marker&family=Special+Elite&family=Voltaire&display=swap');
+h2{
+    font-family: 'Lato', sans-serif;
+
+}
+
+table{
+    margin-left:20%;
+    margin-top:5%;
+    border-collapse: collapse;
+    border:5px solid rgb(102, 23, 23);
+    border-radius: 15%;
+
+}
+table th{
+
+    border-collapse: collapse;
+    background-color: rgba(17, 17, 17,0.7);
+    color:white;
+
+    width:7%;
+    height:30px;
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+    border:3px solid rgb(39, 35, 35);
+    border-radius: 5%;
+
+}
+table td,table tr{
+
+    border-collapse: collapse;
+    width:7%;
+    height:30px;
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+  
+    border:2px solid rgb(34, 33, 33);
+
+}
